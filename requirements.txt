@@ -1,0 +1,4 @@
+temp
+argparse
+PyPDF2
+reportlab
